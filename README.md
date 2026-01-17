@@ -10,7 +10,7 @@
 ## 🛠 Cách dùng
 1. Tải file `hentatmay.ps1` về máy.
 2. Chuột phải và chọn **Run with PowerShell**.
-   Hoặc đơn giản hơn là tải file .exe về chạy
+   Hoặc đơn giản hơn là tải file `.exe` về chạy
 
 ---
 *Tạo bởi khanhnxx*
