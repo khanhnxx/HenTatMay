@@ -1,4 +1,3 @@
-# HenTatMay
 # 🕒 Power Timer - Hẹn giờ tắt máy
 Ứng dụng hẹn giờ tắt máy tính đơn giản, giao diện hiện đại viết bằng PowerShell.
 
@@ -13,4 +12,4 @@
 2. Chuột phải và chọn **Run with PowerShell**.
 
 ---
-*Tạo bởi khanhnx*
+*Tạo bởi khanhnxx*
